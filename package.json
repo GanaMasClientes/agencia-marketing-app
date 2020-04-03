@@ -1,0 +1,13 @@
+{
+  "name": "gana-mas-clientes-app",
+  "description": "",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "gh-pages -d dist"
+  },
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {}
+}
